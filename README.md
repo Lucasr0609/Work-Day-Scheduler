@@ -21,7 +21,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-https://github.com/Lucasr0609/Work-Day-Scheduler
-https://github.com/Lucasr0609
+https://github.com/Lucasr0609/Work-Day-Scheduler <br />
+https://github.com/Lucasr0609 <br />
 https://lucasr0609.github.io/Work-Day-Scheduler/
 <img src="./assets/images/lucasr0609.github.io_Work-Day-Scheduler_.png">
